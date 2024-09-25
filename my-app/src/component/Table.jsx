@@ -19,7 +19,7 @@ export default function CTable({ files, remove }) {
             <TableCell>Name</TableCell>
             <TableCell align="center">Format</TableCell>
             <TableCell align="center">Delete</TableCell>
-            <TableCell align="center">Edit</TableCell>
+
             <TableCell align="center">Download</TableCell>
           </TableRow>
         </TableHead>
